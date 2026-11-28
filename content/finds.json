@@ -736,7 +736,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=gs_66AXjGes",
+      "creator": "TheGamingRevolution",
+      "source_id": "yt-thegamingrevolution"
+    },
     "sources": [
       {
         "source_id": "dexter-daily",
@@ -755,11 +760,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-thegamingrevolution",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=gs_66AXjGes",
+        "creator": "TheGamingRevolution",
+        "published": "2026-11-20",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "paul-walker-eclipse",
@@ -882,7 +896,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=9pzx9OtMDiI",
+      "creator": "Tristan",
+      "source_id": "yt-tristan"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -901,11 +920,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-tristan",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=9pzx9OtMDiI",
+        "creator": "Tristan",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "deep-roots-memorial-wall",
@@ -931,7 +959,12 @@
       "chris-edwards-memorial"
     ],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "x",
+      "url": "https://x.com/SincereSounds/status/2124552200945062045",
+      "creator": "@SincereSounds",
+      "source_id": "x-sinceresounds"
+    },
     "sources": [
       {
         "source_id": "hypefresh",
@@ -959,11 +992,20 @@
         "published": null,
         "embeddable": false,
         "fetched": false
+      },
+      {
+        "source_id": "x-sinceresounds",
+        "type": "x",
+        "url": "https://x.com/SincereSounds/status/2124552200945062045",
+        "creator": "@SincereSounds",
+        "published": "2026-11-22",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": "Primary source is the developer's own Instagram post; its URL was not found. Rockstar has not commented. Handle respectfully: real bereavement.",
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "kyle-busch-18-car",
@@ -1566,7 +1608,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=F--jWzGPPXw",
+      "creator": "THE GTA PLUG",
+      "source_id": "yt-the-gta-plug"
+    },
     "sources": [
       {
         "source_id": "gamerant",
@@ -1603,11 +1650,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-the-gta-plug",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=F--jWzGPPXw",
+        "creator": "THE GTA PLUG",
+        "published": "2026-11-22",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "presidents-bunkers",
@@ -1711,7 +1767,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=eDIu-yPLhRM",
+      "creator": "MrDalekJD",
+      "source_id": "yt-mrdalekjd"
+    },
     "sources": [
       {
         "source_id": "gamerant",
@@ -1739,11 +1800,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-mrdalekjd",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=eDIu-yPLhRM",
+        "creator": "MrDalekJD",
+        "published": "2026-11-22",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": "Pistol name conflicts: 'Brainwasher 1992' (wiki) vs 'Brainwasher 1922' (GameRant).",
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "immortal-sniper-npc",
@@ -1918,7 +1988,12 @@
     ],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=LQ9UcsbHvcQ",
+      "creator": "Postmode",
+      "source_id": "yt-postmode"
+    },
     "sources": [
       {
         "source_id": "gamerant",
@@ -1946,11 +2021,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-postmode",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=LQ9UcsbHvcQ",
+        "creator": "Postmode",
+        "published": "2026-11-20",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "arthur-morgan-hat",
@@ -1978,7 +2062,12 @@
       "arthur-morgan-hat"
     ],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=Y2OD5AC-aUA",
+      "creator": "DogManX",
+      "source_id": "yt-dogmanx"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -2015,11 +2104,20 @@
         "published": null,
         "embeddable": false,
         "fetched": false
+      },
+      {
+        "source_id": "yt-dogmanx",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Y2OD5AC-aUA",
+        "creator": "DogManX",
+        "published": "2026-11-23",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": "Price conflicts: $5 (BuzzFeed via wiki) vs $35 (Dexerto, Xbox Play per search snippets).",
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "michaels-boat-los-santos-gps",
@@ -2117,7 +2215,12 @@
     ],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/shorts/pOircn4fwro",
+      "creator": "Cruzzin",
+      "source_id": "yt-cruzzin"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -2145,11 +2248,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-cruzzin",
+        "type": "youtube",
+        "url": "https://www.youtube.com/shorts/pOircn4fwro",
+        "creator": "Cruzzin",
+        "published": "2026-11-24",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "fabien-larouche-body-copy",
@@ -2177,7 +2289,12 @@
       "liberty-city-memoir"
     ],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/shorts/IJSoI--0WbA",
+      "creator": "Beruzeburu-R",
+      "source_id": "yt-beruzeburu-r"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -2196,11 +2313,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-beruzeburu-r",
+        "type": "youtube",
+        "url": "https://www.youtube.com/shorts/IJSoI--0WbA",
+        "creator": "Beruzeburu-R",
+        "published": "2026-11-20",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "wade-true-crime-podcast",
@@ -2345,7 +2471,12 @@
       "liberty-city-three-times"
     ],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=BXdc7rRYU1I",
+      "creator": "Robert Chelios",
+      "source_id": "yt-robert-chelios"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -2364,11 +2495,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-robert-chelios",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=BXdc7rRYU1I",
+        "creator": "Robert Chelios",
+        "published": "2026-11-20",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "new-austin-western-novel",
@@ -2493,7 +2633,12 @@
       "liberty-city-three-times"
     ],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=dGdHaoZIqmY",
+      "creator": "Mic Fury",
+      "source_id": "yt-mic-fury"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -2521,11 +2666,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-mic-fury",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=dGdHaoZIqmY",
+        "creator": "Mic Fury",
+        "published": "2026-11-23",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "gta-v-postcards-trailer",
@@ -3114,7 +3268,12 @@
       "vice-city-three-times"
     ],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=zBLnRIi1bOE",
+      "creator": "Alexander",
+      "source_id": "yt-alexantrur"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -3133,11 +3292,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-alexantrur",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=zBLnRIi1bOE",
+        "creator": "Alexander",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": "Pre-launch official material, described via fan wiki.",
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "vice-city-style-opening-credits",
@@ -3204,7 +3372,12 @@
       "tenebrae-lux"
     ],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=TpbFYNhTkzo",
+      "creator": "Sadot The Gamer",
+      "source_id": "yt-sadot-the-gamer"
+    },
     "sources": [
       {
         "source_id": "gamerant",
@@ -3232,11 +3405,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-sadot-the-gamer",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=TpbFYNhTkzo",
+        "creator": "Sadot The Gamer",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "mount-kalaga-meteorite",
@@ -3331,7 +3513,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=D2nOcgWsG1k",
+      "creator": "Robbin Rams",
+      "source_id": "yt-robbin-rams"
+    },
     "sources": [
       {
         "source_id": "gta-vice-guides",
@@ -3350,11 +3537,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-robbin-rams",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=D2nOcgWsG1k",
+        "creator": "Robbin Rams",
+        "published": "2026-11-18",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "merman",
@@ -3379,7 +3575,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=0R6a9rpsgB8",
+      "creator": "DeluxPlays",
+      "source_id": "yt-deluxplays"
+    },
     "sources": [
       {
         "source_id": "gta6tuto",
@@ -3398,11 +3599,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-deluxplays",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=0R6a9rpsgB8",
+        "creator": "DeluxPlays",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "sos-castaway-island",
@@ -3426,7 +3636,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=VnANhtl6JiU",
+      "creator": "Robbin Rams",
+      "source_id": "yt-robbin-rams"
+    },
     "sources": [
       {
         "source_id": "prodigy-gamers",
@@ -3454,11 +3669,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-robbin-rams",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=VnANhtl6JiU",
+        "creator": "Robbin Rams",
+        "published": "2026-11-18",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "port-gellhorn-missing-persons",
@@ -3561,7 +3785,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=fpaUpkNONQE",
+      "creator": "Dynasty",
+      "source_id": "yt-dynasty"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -3589,11 +3818,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-dynasty",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=fpaUpkNONQE",
+        "creator": "Dynasty",
+        "published": "2026-11-20",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "super-mario-question-block",
@@ -3697,7 +3935,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "x",
+      "url": "https://x.com/Testyment/status/2123552776001404928",
+      "creator": "@Testyment",
+      "source_id": "x-testyment"
+    },
     "sources": [
       {
         "source_id": "fandomwire",
@@ -3734,11 +3977,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "x-testyment",
+        "type": "x",
+        "url": "https://x.com/Testyment/status/2123552776001404928",
+        "creator": "@Testyment",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": "Sound-alike, not a confirmed celebrity likeness.",
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "operation-furball",
@@ -3760,7 +4012,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "x",
+      "url": "https://x.com/Dexerto/status/2123433971547611172",
+      "creator": "@Dexerto",
+      "source_id": "x-dexerto"
+    },
     "sources": [
       {
         "source_id": "dexerto",
@@ -3788,11 +4045,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "x-dexerto",
+        "type": "x",
+        "url": "https://x.com/Dexerto/status/2123433971547611172",
+        "creator": "@Dexerto",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "escaped-polar-bear",
@@ -3814,7 +4080,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=ualYC7I4uBE",
+      "creator": "Jacob Fox",
+      "source_id": "yt-jacob-fox"
+    },
     "sources": [
       {
         "source_id": "kotaku",
@@ -3842,11 +4113,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-jacob-fox",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=ualYC7I4uBE",
+        "creator": "Jacob Fox",
+        "published": "2026-11-24",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "three-sheets-talking-parrots",
@@ -3870,7 +4150,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=P3phmdXL9sI",
+      "creator": "Mic Fury",
+      "source_id": "yt-mic-fury"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -3898,11 +4183,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-mic-fury",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=P3phmdXL9sI",
+        "creator": "Mic Fury",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "jimmy-the-drunk-sailor",
@@ -3926,7 +4220,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=RhWri_uoFcw",
+      "creator": "AMHarbinger",
+      "source_id": "yt-amharbinger"
+    },
     "sources": [
       {
         "source_id": "ign",
@@ -3945,11 +4244,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-amharbinger",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=RhWri_uoFcw",
+        "creator": "AMHarbinger",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "lawsuit-burning-driver",
@@ -3973,7 +4281,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/shorts/kvK3cGkZlyE",
+      "creator": "JaredOnAnIsland",
+      "source_id": "yt-jaredonanisland"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -3991,6 +4304,15 @@
         "creator": "gta6wiki.eu",
         "published": "2026-11-23",
         "embeddable": false,
+        "fetched": true
+      },
+      {
+        "source_id": "yt-jaredonanisland",
+        "type": "youtube",
+        "url": "https://www.youtube.com/shorts/kvK3cGkZlyE",
+        "creator": "JaredOnAnIsland",
+        "published": "2026-11-20",
+        "embeddable": true,
         "fetched": true
       }
     ],
@@ -4018,7 +4340,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=bwU7cMyvPt0",
+      "creator": "TheGamingRevolution",
+      "source_id": "yt-thegamingrevolution"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -4037,11 +4364,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-thegamingrevolution",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=bwU7cMyvPt0",
+        "creator": "TheGamingRevolution",
+        "published": "2026-11-23",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "william-tell-target-practice",
@@ -4205,7 +4541,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=DB7o6kdPMO8",
+      "creator": "Gator Keys",
+      "source_id": "yt-gator-keys"
+    },
     "sources": [
       {
         "source_id": "gta6wiki-eu",
@@ -4215,11 +4556,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-gator-keys",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=DB7o6kdPMO8",
+        "creator": "Gator Keys",
+        "published": "2026-11-24",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "spongebob-pineapple-bus-stop",
@@ -4243,7 +4593,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=nBLq0L3sEMg",
+      "creator": "auburunae",
+      "source_id": "yt-auburunae"
+    },
     "sources": [
       {
         "source_id": "gta6wiki-eu",
@@ -4253,11 +4608,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-auburunae",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=nBLq0L3sEMg",
+        "creator": "auburunae",
+        "published": "2026-11-18",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "crashed-glider-turnt-nipper",
@@ -4343,7 +4707,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=L1mZQjVa1Mg",
+      "creator": "100% Guides",
+      "source_id": "yt-100-guides"
+    },
     "sources": [
       {
         "source_id": "outputlag",
@@ -4371,11 +4740,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-100-guides",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=L1mZQjVa1Mg",
+        "creator": "100% Guides",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": "Directions and contents conflict between guides. chapter_gate comes from one guide saying the Chapter 1 mission 'Building a Life' is required.",
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "pelican-valley-cabin-guns",
@@ -4399,7 +4777,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=8FkDC9BpIaI",
+      "creator": "Masterer Mitch",
+      "source_id": "yt-masterer-mitch"
+    },
     "sources": [
       {
         "source_id": "outputlag",
@@ -4409,11 +4792,20 @@
         "published": "2026-11-22",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-masterer-mitch",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=8FkDC9BpIaI",
+        "creator": "Masterer Mitch",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "kingfishers-shack-w22",
@@ -4437,7 +4829,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=IPHBXS7Aobk",
+      "creator": "HorizoN.",
+      "source_id": "yt-horizon"
+    },
     "sources": [
       {
         "source_id": "outputlag",
@@ -4447,11 +4844,20 @@
         "published": "2026-11-22",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-horizon",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=IPHBXS7Aobk",
+        "creator": "HorizoN.",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "mount-kalaga-tower-shed",
@@ -4578,7 +4984,12 @@
       "firewatch-qr-mysteries"
     ],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "x",
+      "url": "https://x.com/AlsikkanTV/status/2123492914101617058",
+      "creator": "@AlsikkanTV",
+      "source_id": "x-alsikkantv"
+    },
     "sources": [
       {
         "source_id": "vice-city-db",
@@ -4597,11 +5008,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "x-alsikkantv",
+        "type": "x",
+        "url": "https://x.com/AlsikkanTV/status/2123492914101617058",
+        "creator": "@AlsikkanTV",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "pegassi-infernus-96",
@@ -4628,7 +5048,12 @@
       "infernus-cheetah"
     ],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=4nT4phngbkU",
+      "creator": "LunarGaming",
+      "source_id": "yt-lunargaming"
+    },
     "sources": [
       {
         "source_id": "hotcars",
@@ -4638,11 +5063,20 @@
         "published": "2026-11-20",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-lunargaming",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=4nT4phngbkU",
+        "creator": "LunarGaming",
+        "published": "2026-11-20",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": "Location conflict unresolved.",
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "grotti-cheetah-95",
@@ -4706,7 +5140,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/shorts/iGbb2TH2c_g",
+      "creator": "vlog cu teo",
+      "source_id": "yt-vlog-cu-teo"
+    },
     "sources": [
       {
         "source_id": "hotcars",
@@ -4716,11 +5155,20 @@
         "published": "2026-11-20",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-vlog-cu-teo",
+        "type": "youtube",
+        "url": "https://www.youtube.com/shorts/iGbb2TH2c_g",
+        "creator": "vlog cu teo",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": "chapter_gate is derived: the find sits on Randy's wish list, which research/gta6-mechanics.md section 5 (HotCars) places in Chapter 3.",
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "boat-stuck-on-bridge-glitch",
@@ -4810,7 +5258,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=AMc0RDNiAmE",
+      "creator": "LegacyOfKaiser",
+      "source_id": "yt-legacyofkaiser"
+    },
     "sources": [
       {
         "source_id": "gta6wiki-eu",
@@ -4820,11 +5273,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-legacyofkaiser",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=AMc0RDNiAmE",
+        "creator": "LegacyOfKaiser",
+        "published": "2026-11-18",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "keys-stilt-house-basketball",
@@ -4850,7 +5312,12 @@
     ],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/shorts/5-un0625d9Q",
+      "creator": "Bazzaim Clips",
+      "source_id": "yt-bazzaim-clips"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -4869,11 +5336,20 @@
         "published": null,
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "yt-bazzaim-clips",
+        "type": "youtube",
+        "url": "https://www.youtube.com/shorts/5-un0625d9Q",
+        "creator": "Bazzaim Clips",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "roadside-ghost-woman",
@@ -5076,7 +5552,12 @@
     "crossover_games": [],
     "related_connections": [],
     "first_finder": null,
-    "clip": null,
+    "clip": {
+      "platform": "x",
+      "url": "https://x.com/dzakidj/status/2123368310410776771",
+      "creator": "@dzakidj",
+      "source_id": "x-dzakidj"
+    },
     "sources": [
       {
         "source_id": "gta6info",
@@ -5095,11 +5576,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "x-dzakidj",
+        "type": "x",
+        "url": "https://x.com/dzakidj/status/2123368310410776771",
+        "creator": "@dzakidj",
+        "published": "2026-11-19",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": null,
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "skeeters-bar-south-park",

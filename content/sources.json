@@ -490,6 +490,16 @@
     "notes": "Secrets pages with numbered confirmations and access-dated sources. Corrections: info@vicecitydb.org."
   },
   {
+    "id": "x-alsikkantv",
+    "name": "@AlsikkanTV",
+    "handle": "@AlsikkanTV",
+    "platform": "x",
+    "role": "community",
+    "url": "https://x.com/AlsikkanTV",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on qr-code-seized-pages. Account URL taken from the post."
+  },
+  {
     "id": "x-badgergoodger",
     "name": "Badger Goodger",
     "handle": "@BadgerGoodger",
@@ -538,6 +548,26 @@
     "url": "https://x.com/DarkViperAU",
     "status": "active",
     "notes": "Listed by gta6everything.com, not individually verified."
+  },
+  {
+    "id": "x-dexerto",
+    "name": "Dexerto (@Dexerto)",
+    "handle": "@Dexerto",
+    "platform": "x",
+    "role": "press",
+    "url": "https://x.com/Dexerto",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on operation-furball. Account URL taken from the post."
+  },
+  {
+    "id": "x-dzakidj",
+    "name": "@dzakidj",
+    "handle": "@dzakidj",
+    "platform": "x",
+    "role": "community",
+    "url": "https://x.com/dzakidj",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on rx-men-comic. Account URL taken from the post."
   },
   {
     "id": "x-gameroll",
@@ -660,6 +690,16 @@
     "notes": "Snapmatic doomscrolling (via Kotaku)."
   },
   {
+    "id": "x-sinceresounds",
+    "name": "Terrance (@SincereSounds)",
+    "handle": "@SincereSounds",
+    "platform": "x",
+    "role": "community",
+    "url": "https://x.com/SincereSounds",
+    "status": "active",
+    "notes": "Personal account of Terrance Radcliff, named as a Rockstar production designer in the find's sources. Added 2026-11-25 for the clip on deep-roots-memorial-wall."
+  },
+  {
     "id": "x-sirjosephwindsr",
     "name": "@SirJosephWindsr",
     "handle": "@SirJosephWindsr",
@@ -688,6 +728,16 @@
     "url": "https://x.com/SourceVI",
     "status": "active",
     "notes": null
+  },
+  {
+    "id": "x-testyment",
+    "name": "@Testyment",
+    "handle": "@Testyment",
+    "platform": "x",
+    "role": "community",
+    "url": "https://x.com/Testyment",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on collateral-hitman. Account URL taken from the post."
   },
   {
     "id": "x-tggonyt",
@@ -720,6 +770,16 @@
     "notes": null
   },
   {
+    "id": "yt-100-guides",
+    "name": "100% Guides",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@100Guides",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on conspiracist-trailer-bunker. Channel URL taken from the video page."
+  },
+  {
     "id": "yt-afterframe",
     "name": "AFTERFRAME",
     "handle": null,
@@ -740,6 +800,26 @@
     "notes": "Channel URL not recorded in research; see the video URLs on the finds that cite it."
   },
   {
+    "id": "yt-alexantrur",
+    "name": "Alexander",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@Alexantrur",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on ocean-view-hotel-vintage-pack. Channel URL taken from the video page."
+  },
+  {
+    "id": "yt-amharbinger",
+    "name": "AMHarbinger",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@amharbinger",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on jimmy-the-drunk-sailor. Channel URL taken from the video page."
+  },
+  {
     "id": "yt-arekkz-gaming",
     "name": "Arekkz Gaming",
     "handle": null,
@@ -748,6 +828,46 @@
     "url": "https://www.youtube.com/@ArekkzGaming",
     "status": "active",
     "notes": "Channel URL verified in research/gta6-sources.md."
+  },
+  {
+    "id": "yt-auburunae",
+    "name": "auburunae",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@auburunae",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on spongebob-pineapple-bus-stop. Channel URL taken from the video page."
+  },
+  {
+    "id": "yt-bazzaim-clips",
+    "name": "Bazzaim Clips",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@Bazzaim",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on keys-stilt-house-basketball. Channel URL taken from the video page."
+  },
+  {
+    "id": "yt-beruzeburu-r",
+    "name": "Beruzeburu-R",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@Beruzeburu-Reborn",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on fabien-larouche-body-copy. Channel URL taken from the video page."
+  },
+  {
+    "id": "yt-cruzzin",
+    "name": "Cruzzin",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@Cruzzin",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on michael-wind-chimes-ringtone. Channel URL taken from the video page."
   },
   {
     "id": "yt-cytorial",
@@ -820,6 +940,26 @@
     "notes": "Channel URL not recorded in research; see the video URLs on the finds that cite it."
   },
   {
+    "id": "yt-dogmanx",
+    "name": "DogManX",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@DogManX",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on arthur-morgan-hat. Channel URL taken from the video page."
+  },
+  {
+    "id": "yt-dynasty",
+    "name": "Dynasty",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@DYNASTY1031",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on capri-pentagram-ritual. Channel URL taken from the video page."
+  },
+  {
     "id": "yt-edepot",
     "name": "edepot",
     "handle": null,
@@ -890,6 +1030,16 @@
     "notes": "Channel URL not recorded in research; see the video URLs on the finds that cite it."
   },
   {
+    "id": "yt-gator-keys",
+    "name": "Gator Keys",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@Gatorkey",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on pet-cemetery-grayson. Channel URL taken from the video page."
+  },
+  {
     "id": "yt-gcrock-xtra",
     "name": "GCROCK XTRA",
     "handle": null,
@@ -950,6 +1100,16 @@
     "notes": "Channel URL not recorded in research; see the video URLs on the finds that cite it."
   },
   {
+    "id": "yt-horizon",
+    "name": "HorizoN.",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@Horizon6077",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on kingfishers-shack-w22. Channel URL taken from the video page."
+  },
+  {
     "id": "yt-icantsayit",
     "name": "icantsayit",
     "handle": null,
@@ -958,6 +1118,26 @@
     "url": null,
     "status": "active",
     "notes": "Channel URL not recorded in research; see the video URLs on the finds that cite it."
+  },
+  {
+    "id": "yt-jacob-fox",
+    "name": "Jacob Fox",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@JacobFox",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on escaped-polar-bear. Channel URL taken from the video page."
+  },
+  {
+    "id": "yt-jaredonanisland",
+    "name": "JaredOnAnIsland",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@JaredOnAnIsland",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on lawsuit-burning-driver. Channel URL taken from the video page."
   },
   {
     "id": "yt-jokemen-fc",
@@ -990,6 +1170,16 @@
     "notes": "Channel URL not recorded in research; see the video URLs on the finds that cite it."
   },
   {
+    "id": "yt-legacyofkaiser",
+    "name": "LegacyOfKaiser",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@LegacyOfKaiser",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on cat-in-stolen-car. Channel URL taken from the video page."
+  },
+  {
     "id": "yt-leonida-daily",
     "name": "Leonida Daily",
     "handle": null,
@@ -1018,6 +1208,26 @@
     "url": "https://www.youtube.com/@xLunarGaming",
     "status": "active",
     "notes": "Channel URL verified in research/gta6-sources.md."
+  },
+  {
+    "id": "yt-masterer-mitch",
+    "name": "Masterer Mitch",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@masterermitch",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on pelican-valley-cabin-guns. Channel URL taken from the video page."
+  },
+  {
+    "id": "yt-mic-fury",
+    "name": "Mic Fury",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@MicFury",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on three-sheets-talking-parrots. Channel URL taken from the video page."
   },
   {
     "id": "yt-mon-facts",
@@ -1070,6 +1280,26 @@
     "notes": "Channel URL verified in research/gta6-sources.md."
   },
   {
+    "id": "yt-robert-chelios",
+    "name": "Robert Chelios",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@RobertChelios",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on liberty-city-mob-memoir. Channel URL taken from the video page."
+  },
+  {
+    "id": "yt-sadot-the-gamer",
+    "name": "Sadot The Gamer",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@SadotTheGamer",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on tenebrae-lux-puzzle-game. Channel URL taken from the video page."
+  },
+  {
     "id": "yt-short-slade",
     "name": "Short Slade",
     "handle": null,
@@ -1110,6 +1340,16 @@
     "notes": "Channel URL verified in research/gta6-sources.md."
   },
   {
+    "id": "yt-the-gta-plug",
+    "name": "THE GTA PLUG",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@thegtaplugyt",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on backrooms-excavation-trip. Channel URL taken from the video page."
+  },
+  {
     "id": "yt-thegamingrevolution",
     "name": "TheGamingRevolution",
     "handle": null,
@@ -1128,6 +1368,16 @@
     "url": null,
     "status": "active",
     "notes": "Channel URL not recorded in research; see the video URLs on the finds that cite it."
+  },
+  {
+    "id": "yt-vlog-cu-teo",
+    "name": "vlog cu teo",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@vlogcuteo2",
+    "status": "active",
+    "notes": "Added 2026-11-25 for the clip on gauntlet-hellfire-hamlet. Channel URL taken from the video page."
   },
   {
     "id": "yt-whats-eating-gta",

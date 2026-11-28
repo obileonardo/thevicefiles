@@ -29,7 +29,6 @@ const yt = (f: Find) => f.clip?.platform === 'youtube';
 const art = finds.find((f) => showcaseable(f) && yt(f))!;
 const spoilerFind = finds.find((f) => f.spoiler && !f.mature && yt(f));
 // No mature find carries a clip yet, so the mature gate is shown on the default find's clip.
-const matureFind = finds.find((f) => f.mature && f.clip);
 const still = findStill(art)!;
 
 // Worst case: the longest values our content holds (break-ui: plausible or schema-backed, never random).
@@ -189,7 +188,8 @@ const pinnedFind = finds.find((f) => f.pin && f.clip?.platform === 'youtube' && 
     <div class="ds-clips">
       <div class="ds-cell"><span class="ds-cap">Default</span><Clip clip={art.clip!} title={art.title} /></div>
       {spoilerFind && <div class="ds-cell"><span class="ds-cap">Spoiler gate</span><Clip clip={spoilerFind.clip!} title={spoilerFind.title} spoiler chapterGate={spoilerFind.chapter_gate ?? null} /></div>}
-      <div class="ds-cell"><span class="ds-cap">{matureFind ? 'Mature gate' : 'Mature gate (no mature find has a clip yet; shown on the default clip)'}</span><Clip clip={(matureFind ?? art).clip!} title={publicTitle(matureFind ?? art)} mature /></div>
+      {/* Shown on the default clip: a mature find's clip stays on its own page (LR85). */}
+      <div class="ds-cell"><span class="ds-cap">Mature gate (shown on the default clip)</span><Clip clip={art.clip!} title={publicTitle(art)} mature /></div>
     </div>
   </Specimen>
 

@@ -82,7 +82,7 @@ function Sources({ find, scroll }: { find: MapFind; scroll?: boolean }) {
         <li>
           <a className="source" href={findUrl(find.slug)}>
             <span className="source__icon"><Icon name={sourceIcon('article')} size={16} /></span>
-            <span className="source__label">{find.sourceCount} on the find page</span>
+            <span className="source__label">{find.sourceCount} {find.sourceCount === 1 ? 'source' : 'sources'} on the find page</span>
             <Icon name="arrow-right" size={16} className="source__go" />
           </a>
         </li>

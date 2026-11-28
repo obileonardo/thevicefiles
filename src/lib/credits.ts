@@ -53,7 +53,8 @@ for (const f of finds) {
     const id = byHandle.get(norm(ff.handle));
     const p = id ? touch(id, fromRegistry(id, ff.handle, ff.platform)) : touch(`finder:${norm(ff.handle)}`, () => ({ key: `finder:${norm(ff.handle)}`, name: ff.handle, platform: platformName(ff.platform), profile: null }));
     p.firstFinds++;
-    add(p, { find: f, url: ff.url, role: 'first' });
+    // A mature find's posts stay on its own page (LR85): the person is credited and the find links there, no post link.
+    add(p, { find: f, url: f.mature ? null : ff.url, role: 'first' });
   }
   for (const s of f.sources) {
     if (!isPersonPost(s) || !s.source_id) continue;
@@ -62,9 +63,8 @@ for (const f of finds) {
     const p = touch(s.source_id, fromRegistry(s.source_id, s.creator ?? s.source_id, s.type));
     const isClip = f.clip?.url === s.url;
     if (isClip) p.clips++;
-    // A mature find's sources stay on its own page (LR84): the person is credited, the post link is not shown. Its clip
-    // keeps its link, as the clip itself does on the map and in the open data.
-    add(p, { find: f, url: f.mature && !isClip ? null : s.url, role: isClip ? 'clip' : 'source' });
+    // A mature find's sources and clip stay on its own page (LR84, LR85): the person is credited, no post link shown.
+    add(p, { find: f, url: f.mature ? null : s.url, role: isClip ? 'clip' : 'source' });
   }
 }
 

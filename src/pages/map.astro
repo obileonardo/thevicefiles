@@ -22,7 +22,8 @@ const relatedOf = (slug: string, ids: string[]) => {
 // The fields search and the filter read come from map-fields.ts, shared with the home page's example questions and
 // their test (scripts/test/ask.test.ts), so those check exactly what this page lists.
 const data: MapFind[] = finds.map((f) => {
-  const still = findStill(f);
+  // A mature find's still stays on its own page (LR85): its URL can name the topic, and the map never shows it.
+  const still = f.mature ? null : findStill(f);
   return {
     ...searchFields(f),
     icon: categoryIcon(f.category),

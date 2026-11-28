@@ -46,11 +46,32 @@ export const pageDescription = (f: Pick<Find, 'summary' | 'mature' | 'category' 
  */
 export const publicSources = <S>(f: { mature: boolean; sources: S[] }): S[] => (f.mature ? [] : f.sources);
 
+/**
+ * The first finder a find shows anywhere but its own page: a mature find keeps the person's name and platform, with no
+ * link to their post, which can name the topic (owner decision, 28 Nov 2026; LR85). A null url is already how content
+ * says a finder has no post, so every reader handles it.
+ */
+export const publicFinder = <F extends { url: string | null }>(f: { mature: boolean; first_finder: F | null }) =>
+  f.first_finder && f.mature ? { ...f.first_finder, url: null } : f.first_finder;
+
+/**
+ * The clip a find shows anywhere but its own page: a mature find keeps its platform and creator, with no link to the
+ * post (LR85). Its player, thumbnail and still stay on its own page too (src/lib/media.ts mapClip, src/pages/map.astro).
+ */
+export const publicClip = <C extends { url: string }>(f: { mature: boolean; clip: C | null }) =>
+  f.clip && f.mature ? { ...f.clip, url: null } : f.clip;
+
 /** A region and every region it sits in, innermost first. */
 export const regionAncestors = (id: string): string[] => {
   const out: string[] = [];
   for (let r = regionById(id); r; r = r.parent ? regionById(r.parent) : undefined) out.push(r.id);
   return out;
+};
+
+/** The map's first finder (MapFind.finder): no post link for a mature find (publicFinder). */
+export const mapFinder = (f: Find) => {
+  const ff = publicFinder(f);
+  return ff ? { handle: ff.handle, platform: ff.platform, url: ff.url ?? null } : null;
 };
 
 /**
@@ -73,6 +94,6 @@ export const searchFields = (f: Find) => ({
   clip: f.clip ? { creator: f.clip.creator ?? null } : null,
   sources: publicSources(f).map((s) => ({ type: s.type, url: s.url, creator: s.creator ?? null })),
   sourceCount: f.sources.length, // the number the map shows, true even when a mature find's sources stay on its page
-  finder: f.first_finder ? { handle: f.first_finder.handle, platform: f.first_finder.platform, url: f.first_finder.url ?? null } : null,
+  finder: mapFinder(f),
   chapterGate: f.chapter_gate ?? null,
 });

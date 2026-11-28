@@ -5,7 +5,7 @@
 import Frame from '../../components/design/Frame.astro';
 import MapSpecimens from '../../components/design/MapSpecimens';
 import { finds, regionById, categories as allCategories } from '../../lib/content';
-import { regionLabel, findStill, mapClip, showcaseable, categoryChipLabel, categorySingular, categoryIcon, publicTitle, publicSummary, publicSources } from '../../lib/media';
+import { regionLabel, findStill, mapClip, mapFinder, showcaseable, categoryChipLabel, categorySingular, categoryIcon, publicTitle, publicSummary, publicSources } from '../../lib/media';
 import mapJson from '../../../content/map.json';
 import type { MapFind, MapMeta } from '../../components/map/types';
 import type { Find } from '../../lib/content';
@@ -17,7 +17,7 @@ const ancestors = (id: string): string[] => {
   return out;
 };
 const toMapFind = (f: Find): MapFind => {
-  const s = findStill(f);
+  const s = f.mature ? null : findStill(f);
   return {
     slug: f.slug, title: publicTitle(f), category: f.category, categoryLabel: categorySingular(f.category), icon: categoryIcon(f.category),
     regionIds: [...new Set(f.region_ids.flatMap(ancestors))].filter((id) => id !== 'leonida'), regionLabel: regionLabel(f),
@@ -26,7 +26,7 @@ const toMapFind = (f: Find): MapFind => {
     area: f.area ?? null, still: s ? s.thumb : null,
     clip: mapClip(f),
     sources: publicSources(f).map((x) => ({ type: x.type, url: x.url, creator: x.creator ?? null })), sourceCount: f.sources.length,
-    finder: f.first_finder ? { handle: f.first_finder.handle, platform: f.first_finder.platform, url: f.first_finder.url ?? null } : null,
+    finder: mapFinder(f),
     updated: f.updated_at ?? null,
     added: (f as { added_at?: string | null }).added_at ?? null, chapterGate: f.chapter_gate ?? null,
     connections: (f.related_connections ?? []).length, games: (f.crossover_games ?? []).length, related: [],

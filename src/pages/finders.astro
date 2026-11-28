@@ -14,7 +14,7 @@ import { publicTitle } from '../lib/media';
 
 const r = staticRoutes.find((x) => x.path === '/finders')!;
 const plural = (n: number, one: string, many = `${one}s`) => `${n} ${n === 1 ? one : many}`;
-const initial = (name: string) => name.replace(/^(u\/|@)/, '').charAt(0).toUpperCase();
+const initial = (name: string) => name.replace(/^(?:@|u\/)/, '').charAt(0).toUpperCase();
 const roleLabel: Record<Post['role'], string> = { first: 'Found it first', clip: 'Made the clip', source: 'Video' };
 // One line per find: a person can be the finder and the clip on the same find.
 const perFind = (posts: Post[]) => {

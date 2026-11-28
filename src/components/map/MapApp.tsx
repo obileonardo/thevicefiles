@@ -760,7 +760,7 @@ export default function MapApp({ finds, categories, regions, meta, layers, colle
                     {/* Two lines at most: a long title is shortened in text (a clamp would leave hidden lines in the card) */}
                     <span className="pcard2__title">{cf.title.length > 54 ? `${cf.title.slice(0, 52).trimEnd()}…` : cf.title}</span>
                     <span className="pcard2__meta">{cf.categoryLabel} · {cf.regionLabel}</span>
-                    <span className="pcard2__credit">{cf.finder ? <><span className="pcard2__avatar" aria-hidden="true">{cf.finder.handle.replace(/^[@u/]+/, '').slice(0, 1).toUpperCase()}</span>Found by {cf.finder.handle}</> : 'First finder not known yet'}</span>
+                    <span className="pcard2__credit">{cf.finder ? <><span className="pcard2__avatar" aria-hidden="true">{cf.finder.handle.replace(/^(?:@|u\/)/, '').slice(0, 1).toUpperCase()}</span>Found by {cf.finder.handle}</> : 'First finder not known yet'}</span>
                   </span>
                 </button>
                 <button type="button" className="pcard2__found" aria-pressed={found.has(cf.slug)} aria-label={found.has(cf.slug) ? 'Found. Mark as not found' : 'Mark as found'} onClick={() => toggleFoundFlip(cf.slug)}><Icon name="check" size={20} stroke={2} /></button>

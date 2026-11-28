@@ -21,7 +21,7 @@ const glyph = { video: 'clip', article: 'article', wiki: 'link' } as const;
 const kind = { video: 'Video', article: 'Article', wiki: 'Wiki' } as const;
 // Two lines of 72 hold about 24 characters; longer titles step down so no title needs more than three lines.
 const titleSize = (t: string) => (t.length <= 24 ? 'l' : t.length <= 47 ? 'm' : 's');
-const initial = (s: string) => s.replace(/^[@u/]+/, '').charAt(0).toUpperCase();
+const initial = (s: string) => s.replace(/^(?:@|u\/)/, '').charAt(0).toUpperCase();
 ---
 {finds.length > 0 && (
 <section class="spot" id="more" aria-labelledby="spot-label">

@@ -54,7 +54,7 @@ const boards = tops
 
 // Phone strip: the six most credited finders overall (the /finders order), the site's mark between them.
 const strip = finders.slice(0, 6);
-const initial = (n: string) => n.replace(/^[@u/]+/, '').charAt(0).toUpperCase();
+const initial = (n: string) => n.replace(/^(?:@|u\/)/, '').charAt(0).toUpperCase();
 const plural = (n: number, one: string, many: string) => `${n} ${n === 1 ? one : many}`;
 
 // Our drawing of Leonida, in the units the map teaser uses (the official map's printed frame is 1 wide).

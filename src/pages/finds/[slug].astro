@@ -248,7 +248,7 @@ const nearLabel = (h: (typeof near)[number]) => h.reason === 'distance' ? `${reg
                 <section class="about" aria-labelledby="about-title">
                   <h2 id="about-title" class="about__title">{who.kind === 'finder' ? 'About the finder' : 'About the clip'}</h2>
                   <div class="about__who">
-                    <span class="about__avatar" aria-hidden="true">{who.name.replace(/^u\//, '').charAt(0).toUpperCase()}</span>
+                    <span class="about__avatar" aria-hidden="true">{who.name.replace(/^(?:@|u\/)/, '').charAt(0).toUpperCase()}</span>
                     <span class="about__name">
                       <span>{who.name}</span>
                       <span class="about__role">{who.kind === 'finder' ? `First found it, on ${who.platform}` : `Made the clip, on ${who.platform}`}</span>

@@ -266,7 +266,9 @@
         "GTA San Andreas"
       ],
       "summary": "The British music hanger-on Kent Paul and the singer Maccer show up in both Vice City and San Andreas, tying the Love Fist and Las Venturas storylines together.",
-      "related_finds": [],
+      "related_finds": [
+        "kent-paul-malibu-club-portal"
+      ],
       "sources": [
         {
           "url": "https://gta.fandom.com/wiki/Kent_Paul",
@@ -277,7 +279,7 @@
           "title": "Maccer (GTA Wiki)"
         }
       ],
-      "updated_at": "2026-11-23"
+      "updated_at": "2026-11-24"
     },
     {
       "id": "catalina-claude",

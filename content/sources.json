@@ -470,6 +470,16 @@
     "notes": null
   },
   {
+    "id": "the-tab",
+    "name": "The Tab",
+    "handle": null,
+    "platform": "web",
+    "role": "press",
+    "url": "https://thetab.com",
+    "status": "active",
+    "notes": null
+  },
+  {
     "id": "thegamer",
     "name": "TheGamer",
     "handle": null,
@@ -478,6 +488,26 @@
     "url": "https://www.thegamer.com",
     "status": "active",
     "notes": "Links original Reddit threads."
+  },
+  {
+    "id": "unboxholics",
+    "name": "Unboxholics",
+    "handle": null,
+    "platform": "web",
+    "role": "press",
+    "url": "https://unboxholics.com",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "id": "vice",
+    "name": "VICE",
+    "handle": null,
+    "platform": "web",
+    "role": "press",
+    "url": "https://www.vice.com",
+    "status": "active",
+    "notes": null
   },
   {
     "id": "vice-city-db",
@@ -530,6 +560,16 @@
     "notes": null
   },
   {
+    "id": "x-dalvinthetruth",
+    "name": "@dalvinthetruth",
+    "handle": "@dalvinthetruth",
+    "platform": "x",
+    "role": "community",
+    "url": "https://x.com/dalvinthetruth",
+    "status": "active",
+    "notes": "Earliest post found for the La Perle garage code (2026-11-22)."
+  },
+  {
     "id": "x-darkviperau",
     "name": "DarkViperAU",
     "handle": "@DarkViperAU",
@@ -538,6 +578,16 @@
     "url": "https://x.com/DarkViperAU",
     "status": "active",
     "notes": "Listed by gta6everything.com, not individually verified."
+  },
+  {
+    "id": "x-flexzcod",
+    "name": "@FlexZCoD (FlexZ)",
+    "handle": "@FlexZCoD",
+    "platform": "x",
+    "role": "creator",
+    "url": "https://x.com/FlexZCoD",
+    "status": "active",
+    "notes": "Spanish-language creator."
   },
   {
     "id": "x-gameroll",
@@ -558,6 +608,16 @@
     "url": "https://x.com/GhillieYT",
     "status": "active",
     "notes": "Listed by gta6everything.com, not individually verified."
+  },
+  {
+    "id": "x-gta6-stars",
+    "name": "@GTA6_Stars (GTA 6 Stars)",
+    "handle": "@GTA6_Stars",
+    "platform": "x",
+    "role": "community",
+    "url": "https://x.com/GTA6_Stars",
+    "status": "active",
+    "notes": "Step-by-step guide posts; whether the videos are their own captures was not checked."
   },
   {
     "id": "x-gtaseries",
@@ -598,6 +658,26 @@
     "url": "https://x.com/GTAWikiOfficial",
     "status": "active",
     "notes": "Credited Jared from the GTA VI Mapping server for Belville."
+  },
+  {
+    "id": "x-ign",
+    "name": "@IGN",
+    "handle": "@IGN",
+    "platform": "x",
+    "role": "press",
+    "url": "https://x.com/IGN",
+    "status": "active",
+    "notes": "X account of IGN (outlet id ign)."
+  },
+  {
+    "id": "x-memeioyt",
+    "name": "@MemeioYT (Memeio)",
+    "handle": "@MemeioYT",
+    "platform": "x",
+    "role": "creator",
+    "url": "https://x.com/MemeioYT",
+    "status": "active",
+    "notes": "Australian YouTube creator; X bio links youtube.com/c/Memeio."
   },
   {
     "id": "x-mrbossftw",
@@ -708,6 +788,16 @@
     "url": "https://x.com/TylariousYT",
     "status": "active",
     "notes": "Listed by gta6everything.com, not individually verified."
+  },
+  {
+    "id": "x-xgarbett",
+    "name": "@xGarbett",
+    "handle": "@xGarbett",
+    "platform": "x",
+    "role": "creator",
+    "url": "https://x.com/xGarbett",
+    "status": "active",
+    "notes": "Same name as the xGarbett YouTube channel (yt-xgarbett); the link between the two accounts was not verified."
   },
   {
     "id": "yahoo-tech",
@@ -1038,6 +1128,16 @@
     "url": "https://www.youtube.com/@MrDalekJD",
     "status": "active",
     "notes": "Channel URL verified in research/gta6-sources.md."
+  },
+  {
+    "id": "yt-pedro-alduare",
+    "name": "pedro alduare",
+    "handle": null,
+    "platform": "youtube",
+    "role": "creator",
+    "url": "https://www.youtube.com/@pedroalduare2916",
+    "status": "active",
+    "notes": "Says in his video description that he is u/Complex_Pop_7211 on Reddit and posted the Malibu Club portal on GTAForums and Reddit first."
   },
   {
     "id": "yt-perfect-score",

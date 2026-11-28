@@ -625,11 +625,20 @@
         "published": "2026-11-23",
         "embeddable": false,
         "fetched": true
+      },
+      {
+        "source_id": "x-ign",
+        "type": "x",
+        "url": "https://x.com/IGN/status/2123966099104411914",
+        "creator": "@IGN",
+        "published": "2026-11-21",
+        "embeddable": true,
+        "fetched": true
       }
     ],
     "notes": "Original finder: 'Jared' from the GTA VI mapping community Discord, found on launch day in New Zealand. No public handle for Jared was found. Rockstar has not commented.",
     "added_at": "2026-11-23",
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-24"
   },
   {
     "id": "dexter-trinity-apartments",
@@ -5156,5 +5165,230 @@
     "notes": null,
     "added_at": "2026-11-23",
     "updated_at": "2026-11-23"
+  },
+  {
+    "id": "kent-paul-malibu-club-portal",
+    "slug": "kent-paul-malibu-club-portal",
+    "title": "Kent Paul and the portal to the PS2-era Malibu Club",
+    "status": "draft",
+    "category": "rockstar-crossover",
+    "verification": "multi-source",
+    "spoiler": false,
+    "mature": false,
+    "chapter_gate": null,
+    "area": "Starts at a radio tower in Key Lento (pedro alduare calls it Donnie's radio tower; ComicBook and GTA Series Videos call it the Badger or Badger R&D tower), runs through 12 LPL substations across Leonida and ends at Reactor 2 of the T.H. Power Station east of Hamlet",
+    "region_ids": [
+      "key-lento",
+      "hamlet"
+    ],
+    "location_description": "Flip the breaker and press the button in the Key Lento radio tower; an old TV there switches on a Malibu Club advert. Visit the 12 LPL substations in order. The letters outside them spell LIFE IS PASSING ME BY, the Vice City cheat that speeds up time, and the button you press inside each one follows that cheat's PS2 input: D, D, dot, A, dot, A, A, A, dot, W, D, W. A text from an unknown number (\"U-235 REACTOR2 19-06\") then sends you to Reactor 2 at the T.H. Power Station east of Hamlet between 19:00 and 06:00, where a lever opens the portal. Fast travel or a wrong switch resets the chain.",
+    "pin": null,
+    "pin_accuracy": null,
+    "pin_basis": null,
+    "summary": "A hidden chain of switches opens a portal into the Malibu Club from GTA Vice City, rebuilt with PS2-era graphics, where Kent Paul waits upstairs. Talking to him sends you back to modern Leonida, and he phones you afterwards (GTA Series Videos counts four calls). Guides list Tommy Vercetti's Hawaiian shirt and a motorcycle as rewards.",
+    "crossover_games": [
+      "GTA Vice City"
+    ],
+    "related_connections": [
+      "kent-paul-maccer"
+    ],
+    "first_finder": {
+      "handle": "pedro alduare (u/Complex_Pop_7211)",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/GTA6unmoderated/comments/1y2zmwz/finally_solved_the_12_lpl_substations_donnies/"
+    },
+    "clip": {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=HYvJfNT4wDc",
+      "creator": "pedro alduare",
+      "source_id": "yt-pedro-alduare"
+    },
+    "sources": [
+      {
+        "source_id": "yt-pedro-alduare",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=HYvJfNT4wDc",
+        "creator": "pedro alduare",
+        "published": "2026-11-23",
+        "embeddable": true,
+        "fetched": true
+      },
+      {
+        "source_id": "x-memeioyt",
+        "type": "x",
+        "url": "https://x.com/MemeioYT/status/2124773456231444900",
+        "creator": "@MemeioYT (Memeio)",
+        "published": "2026-11-23",
+        "embeddable": true,
+        "fetched": true
+      },
+      {
+        "source_id": "yt-gta-series-videos",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=PIfk0s6Qe8Y",
+        "creator": "GTA Series Videos",
+        "published": "2026-11-24",
+        "embeddable": true,
+        "fetched": true
+      },
+      {
+        "source_id": "comicbook",
+        "type": "article",
+        "url": "https://comicbook.com/gaming/news/where-to-find-gta-6s-portal-to-ps2-era-vice-city-what-you-can-do-there/",
+        "creator": "Matthew Danielson (ComicBook.com)",
+        "published": "2026-11-23",
+        "embeddable": false,
+        "fetched": true
+      },
+      {
+        "source_id": "unboxholics",
+        "type": "article",
+        "url": "https://unboxholics.com/en/news/gaming/139428-gta-6-player-finds-easter-egg-leading-to-2002-vice-city",
+        "creator": "Antonis Pavlidis (Unboxholics)",
+        "published": "2026-11-23",
+        "embeddable": false,
+        "fetched": true
+      }
+    ],
+    "notes": "Finder credit is disputed, Chime to confirm. pedro alduare's video description says he posted first on GTAForums and Reddit (the Reddit link above comes from that description); the bookmark research saw his GTAForums post at 2026-11-22 21:09 UTC, but GTAForums (403) and Reddit could not be opened on 2026-11-24 to re-check. Memeio's X post (2026-11-23 07:54 UTC) says he found it about three days earlier and believes he was first; Unboxholics credits Memeio. Tower name differs between sources (see area). ComicBook says a taxi, a character swap or public transit resets the chain; GTA Series Videos says all 12 substations must be done within 24 in-game hours of pressing the tower button and that RydeMe alone does not cancel it. Reward names differ: pedro alduare says Mitch's Angel bike, ComicBook says Tommy's 'American Glory' motorcycle, GTA Series Videos says a Malibu Zombie Bobber with an 'American Glory' livery. ComicBook and GTA Series Videos say Danny Dyer reprises Kent Paul; Rockstar has not confirmed it, so the summary leaves it out. Do not copy the substation map image pedro links. Checked 2026-11-24 from article text, post text and video metadata only; no video was watched.",
+    "added_at": "2026-11-24",
+    "updated_at": "2026-11-24"
+  },
+  {
+    "id": "vanessas-growler-la-perle-garage",
+    "slug": "vanessas-growler-la-perle-garage",
+    "title": "Free pink Growler behind a La Perle garage keypad",
+    "status": "draft",
+    "category": "vehicle",
+    "verification": "multi-source",
+    "spoiler": true,
+    "mature": false,
+    "chapter_gate": "Chapter 3",
+    "area": "Vice City (La Perle: Del Rio Boulevard, behind Auntie's Place, across the street from Twa Ponya Tattoo)",
+    "region_ids": [
+      "vice-city"
+    ],
+    "location_description": "In Chapter 3, unlock the laptop in the bedroom of Boobie's apartment at the Bayside Apartments safehouse. The password is Muffins, Queen, 15: the dog's name from a framed photo, the drawing of the dog in a crown, and the number on the back of that drawing. A WhatUp message from an unknown number gives the garage code, 92665. The grey garage door with a pink bow painted beside it is on Del Rio Boulevard in southern La Perle, behind Auntie's Place.",
+    "pin": null,
+    "pin_accuracy": null,
+    "pin_basis": null,
+    "summary": "A small puzzle in a Vice City apartment leads to a garage holding Vanessa's Growler, a pink Pfister sports car you can drive away and keep, and the garage then works as storage. VICE says it is permanently missable once you leave Chapter 3.",
+    "crossover_games": [],
+    "related_connections": [],
+    "first_finder": null,
+    "clip": null,
+    "sources": [
+      {
+        "source_id": "x-dalvinthetruth",
+        "type": "x",
+        "url": "https://x.com/dalvinthetruth/status/2124625767321469335",
+        "creator": "@dalvinthetruth",
+        "published": "2026-11-22",
+        "embeddable": true,
+        "fetched": true
+      },
+      {
+        "source_id": "x-gta6-stars",
+        "type": "x",
+        "url": "https://x.com/GTA6_Stars/status/2124659481011208496",
+        "creator": "@GTA6_Stars",
+        "published": "2026-11-23",
+        "embeddable": true,
+        "fetched": true
+      },
+      {
+        "source_id": "vice",
+        "type": "article",
+        "url": "https://www.vice.com/en/article/gta-6-pink-porsche-location-garage-code/",
+        "creator": "Brent Koepp (VICE)",
+        "published": "2026-11-23",
+        "embeddable": false,
+        "fetched": true
+      },
+      {
+        "source_id": "the-tab",
+        "type": "article",
+        "url": "https://thetab.com/2026/11/24/how-to-unlock-the-free-pink-porsche-in-gta-6-that-disappears-after-chapter-3",
+        "creator": "Ellissa Bain (The Tab)",
+        "published": "2026-11-24",
+        "embeddable": false,
+        "fetched": true
+      }
+    ],
+    "notes": "Earliest post found: @dalvinthetruth, 2026-11-22 22:07 UTC, which gives only the code with one image (not viewed, per the no-Rockstar-image rule). Set first_finder if Chime confirms the image shows his own find. @GTA6_Stars adds that the car can be registered at Pay 'n' Spray or sold for $14,750: single source, left out of the summary. Clue spots differ slightly: GTA6_Stars puts the dog photo by the flamingo wall, VICE and The Tab put it near the kitchen. La Perle is not in content/regions.json yet, so only vice-city is linked. Do not add the money or wall-clip glitches posted in the same X thread. The Tab gives no publish date in its text; the date is taken from its URL. Checked 2026-11-24 from article and post text.",
+    "added_at": "2026-11-24",
+    "updated_at": "2026-11-24"
+  },
+  {
+    "id": "elevator-killer-clown",
+    "slug": "elevator-killer-clown",
+    "title": "A killer clown in an elevator",
+    "status": "draft",
+    "category": "paranormal",
+    "verification": "rumor",
+    "spoiler": false,
+    "mature": false,
+    "chapter_gate": null,
+    "area": "Unknown building",
+    "region_ids": [],
+    "location_description": "Unknown. The post does not name the building or the elevator.",
+    "pin": null,
+    "pin_accuracy": null,
+    "pin_basis": null,
+    "summary": "xGarbett posted a clip warning players not to use a certain elevator because a killer clown appears. No location and no second source yet.",
+    "crossover_games": [],
+    "related_connections": [],
+    "first_finder": null,
+    "clip": null,
+    "sources": [
+      {
+        "source_id": "x-xgarbett",
+        "type": "x",
+        "url": "https://x.com/xGarbett/status/2124710910283657418",
+        "creator": "@xGarbett",
+        "published": "2026-11-23",
+        "embeddable": true,
+        "fetched": true
+      }
+    ],
+    "notes": "Only the post text was read (2026-11-24); the clip was not watched. The red balloon and the Stephen King's It reading come from replies, which could not be read. Pre-release talk of a clown in Vice City came from leaked material: never use it as a source. Needs the building and a second independent clip before it can leave rumor.",
+    "added_at": "2026-11-24",
+    "updated_at": "2026-11-24"
+  },
+  {
+    "id": "npc-sees-player-through-screen",
+    "slug": "npc-sees-player-through-screen",
+    "title": "An NPC who seems to see the player",
+    "status": "draft",
+    "category": "npc",
+    "verification": "rumor",
+    "spoiler": false,
+    "mature": false,
+    "chapter_gate": null,
+    "area": "Unknown",
+    "region_ids": [],
+    "location_description": "Unknown. The post does not say where it happened.",
+    "pin": null,
+    "pin_accuracy": null,
+    "pin_basis": null,
+    "summary": "Creator FlexZ posted a clip of an NPC reacting in fright, captioned in Spanish that the NPC sees him through the screen controlling Jason. Whether it is a fourth-wall gag or an ordinary reaction is unconfirmed.",
+    "crossover_games": [],
+    "related_connections": [],
+    "first_finder": null,
+    "clip": null,
+    "sources": [
+      {
+        "source_id": "x-flexzcod",
+        "type": "x",
+        "url": "https://x.com/FlexZCoD/status/2124644405038432328",
+        "creator": "@FlexZCoD (FlexZ)",
+        "published": "2026-11-22",
+        "embeddable": true,
+        "fetched": true
+      }
+    ],
+    "notes": "Only the post text was read (2026-11-24); the clip was not watched. Caption: 'Un NPC en GTA 6 me ve a traves de la pantalla controlando a Jason y se asusta'. Replies reportedly tie it to the simulation board in belville-simulation-house; no source links them, so it is not cross-linked. Needs a location and a second clip.",
+    "added_at": "2026-11-24",
+    "updated_at": "2026-11-24"
   }
 ]

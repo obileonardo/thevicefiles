@@ -8,7 +8,7 @@ import { findsFile, connectionsFile, collectiblesFile, LICENCE } from '../../lib
 import { formatDate } from '../../lib/finds';
 
 const files = [
-  { href: '/data/finds.json', name: 'Finds', file: findsFile(), holds: 'Published finds with their category, verification, spoiler and chapter flags, region, clip, sources and first finder. Drafts and rumours are left out.', credit: 'Each record keeps its sources, its clip creator and its first finder. A mature find lists its sources on its own page only.' },
+  { href: '/data/finds.json', name: 'Finds', file: findsFile(), holds: 'Published finds with their category, verification, spoiler and chapter flags, region, clip, sources and first finder. Drafts and rumours are left out.', credit: 'Each record keeps its sources, its clip creator and its first finder. A mature find lists its sources, and links its clip and first finder, on its own page only.' },
   { href: '/data/connections.json', name: 'GTAverse connections', file: connectionsFile(), holds: 'Every link between GTA VI and the wider Rockstar universe, with its type, confidence, games and sources.', credit: 'Each record keeps its sources.' },
   { href: '/data/collectibles.json', name: 'Collectible locations', file: collectiblesFile(), holds: 'Collectible pins transcribed from the Game Checklists maps, in pixels of the official map image (the image is not included).', credit: 'Credit Game Checklists with every use: each record names them and links their map.' },
 ];

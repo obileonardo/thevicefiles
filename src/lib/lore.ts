@@ -47,7 +47,7 @@ export type Moment = {
   confidence: string;
   sources: Connection['sources'];
   finds: Find[];
-  /** The clip shown in the polaroid: the first related find with a clip. */
+  /** The clip shown in the polaroid: the first related find with a clip that is not mature (its clip stays on its page, LR85). */
   clipFind: Find | null;
   still: string | null;
 };
@@ -59,7 +59,7 @@ export const moments: Moment[] = connections
   .map((c, order) => {
     const game = firstGame(c);
     const related = (c.related_finds ?? []).map((id) => findBySlug(id)).filter((f): f is Find => !!f);
-    const clipFind = related.find((f) => f.clip) ?? null;
+    const clipFind = related.find((f) => f.clip && !f.mature) ?? null;
     return {
       order,
       slug: c.slug,

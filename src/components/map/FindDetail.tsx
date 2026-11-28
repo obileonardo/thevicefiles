@@ -63,7 +63,7 @@ function Credits({ find }: { find: MapFind }) {
       {cards.map((c) => {
         const body = (
           <>
-            <span className="credits__avatar" aria-hidden="true">{c.name === 'Not credited yet' ? <Icon name={c.icon} size={22} /> : c.name.replace(/^u\//, '').slice(0, 1).toUpperCase()}</span>
+            <span className="credits__avatar" aria-hidden="true">{c.name === 'Not credited yet' ? <Icon name={c.icon} size={22} /> : c.name.replace(/^(?:@|u\/)/, '').slice(0, 1).toUpperCase()}</span>
             <span className="credits__text"><span className="credits__name">{c.name}</span><span className="credits__role">{c.role}</span></span>
             {c.url && <Icon name="arrow-up-right" size={20} className="credits__go" />}
           </>
@@ -82,7 +82,7 @@ function Sources({ find, scroll }: { find: MapFind; scroll?: boolean }) {
         <li>
           <a className="source" href={findUrl(find.slug)}>
             <span className="source__icon"><Icon name={sourceIcon('article')} size={16} /></span>
-            <span className="source__label">{find.sourceCount} on the find page</span>
+            <span className="source__label">{find.sourceCount} {find.sourceCount === 1 ? 'source' : 'sources'} on the find page</span>
             <Icon name="arrow-right" size={16} className="source__go" />
           </a>
         </li>

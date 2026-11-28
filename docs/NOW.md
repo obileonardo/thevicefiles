@@ -61,8 +61,7 @@ Chime owns content and pins. Each item needs a first-hand check in game or a bet
 - Nothing.
 
 ## Pushed, not live
-- Issue #113: mature finds show "Mature find: <type>" and the gate line everywhere but their own page, whose meta and social descriptions drop the summary (LR83); the build checks it. Merged into `staging` (#114).
-- Issue #115: a mature find's sources stay on its own page (empty in the map data and `/data/finds.json`), the map shows no "Show mature clip" gate when there is no clip, and the build's mature check no longer false-alarms on shared phrases or the own page's clip label, and reads titles split by inline markup (LR84). Pull request into `staging`, in review.
+- Issue #117: a mature find's clip and first finder links stay on its own page (the map's mature gate opens the find page; `/finders`, the map data and `/data/finds.json` keep the names without links), no "Reveal spoiler clip" gate on a spoiler find with no clip, the map's chip reads "N sources on the find page", and the build's mature check covers clip and finder links, mature finds that share a source, titles split by block tags, and titles shared with other content (LR85). Pull request into `staging`, in review.
 - #64: fact-check of the 14 bookmark candidates and the 5 draft explainers (issue #63): 4 new draft finds, explainer corrections and 12 conflicts. Waiting on Chime (4 clips to watch, 2 images to view).
 - #69: clips for 35 published finds (issue #68). Waiting on Chime's check.
 - #73: 4 draft finds from the X bookmarks, round 2 (issue #72). Waiting on Chime's check.
@@ -70,6 +69,7 @@ Chime owns content and pins. Each item needs a first-hand check in game or a bet
 - Issue #81: the review-stop gaps for phases 0 to 3 (this file's update is part of it).
 
 ## Live
+- Mature finds (#112, #114, #116; LR78, LR83, LR84): outside its own page a mature find shows "Mature find: <type>", the gate line and no sources, and the build checks it. Live since 28 Nov 2026 (Worker version fb5ee67c) and released to `main` the same day (#118, 9f825f2).
 - thevicefiles.com serves `staging` through the `thevicefiles` Worker (Cloudflare static assets): home, map, finds, explainers, the GTAverse, hubs, `/design` and the PRD at `/prd`. Every page is `noindex` until launch.
 - The Case File logo by Chime (#60) is in the header, the Open Graph cards and the favicons.
 - Map tiles, the hero trailer loop and key art, game logos and cover art are built at deploy from Rockstar's official files and never committed.

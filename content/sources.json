@@ -1198,5 +1198,65 @@
     "url": "https://www.youtube.com/@ZoneXbez",
     "status": "active",
     "notes": "Channel URL verified in research/gta6-sources.md."
+  },
+  {
+    "id": "x-ycchong188",
+    "name": "@ycchong188",
+    "handle": "@ycchong188",
+    "platform": "x",
+    "role": "community",
+    "url": "https://x.com/ycchong188",
+    "status": "active",
+    "notes": "Posted the Coil anti-theft clip on 2026-11-22 (7.8M views). Widely reposted without credit (for example by @FearedBuck)."
+  },
+  {
+    "id": "consequence",
+    "name": "Consequence",
+    "handle": null,
+    "platform": "web",
+    "role": "press",
+    "url": "https://consequence.net",
+    "status": "active",
+    "notes": "Credits X and Reddit posters by handle."
+  },
+  {
+    "id": "x-thehiddenoneac",
+    "name": "@TheHiddenOneAC",
+    "handle": "@TheHiddenOneAC",
+    "platform": "x",
+    "role": "creator",
+    "url": "https://x.com/TheHiddenOneAC",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "id": "x-dexerto",
+    "name": "@Dexerto",
+    "handle": "@Dexerto",
+    "platform": "x",
+    "role": "press",
+    "url": "https://x.com/Dexerto",
+    "status": "active",
+    "notes": "Dexerto's X account. Articles are cited under the outlet id dexerto."
+  },
+  {
+    "id": "audubon",
+    "name": "Audubon",
+    "handle": null,
+    "platform": "web",
+    "role": "press",
+    "url": "https://www.audubon.org",
+    "status": "active",
+    "notes": "National Audubon Society magazine. Nicholas Lund (The Birdist) wrote its GTA VI birding guide."
+  },
+  {
+    "id": "x-babydolltoriii",
+    "name": "@babydolltoriii",
+    "handle": "@babydolltoriii",
+    "platform": "x",
+    "role": "community",
+    "url": "https://x.com/babydolltoriii",
+    "status": "active",
+    "notes": null
   }
 ]

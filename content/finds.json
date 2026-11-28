@@ -5156,5 +5156,211 @@
     "notes": null,
     "added_at": "2026-11-23",
     "updated_at": "2026-11-23"
+  },
+  {
+    "id": "coil-autonomous-security-system",
+    "slug": "coil-autonomous-security-system",
+    "title": "Coil cars lock thieves in and drive them to the police",
+    "status": "draft",
+    "category": "real-world-reference",
+    "verification": "multi-source",
+    "spoiler": false,
+    "mature": false,
+    "chapter_gate": null,
+    "area": "Anywhere a Coil car can be found (no fixed spot)",
+    "region_ids": [],
+    "location_description": "Try to steal any Coil, the game's electric car brand. No fixed location is reported.",
+    "pin": null,
+    "pin_accuracy": null,
+    "pin_basis": null,
+    "summary": "Coil is Rockstar's parody of Tesla. Steal one and its \"Autonomous Security System\" locks you inside, then either drives itself to the nearest police station or holds you in place until officers arrive. Consequence reports the only way out is to smash a window and run before the police get there.",
+    "crossover_games": [],
+    "related_connections": [],
+    "first_finder": null,
+    "clip": {
+      "platform": "x",
+      "url": "https://x.com/ycchong188/status/2124485507161931787",
+      "creator": "@ycchong188",
+      "source_id": "x-ycchong188"
+    },
+    "sources": [
+      {
+        "source_id": "x-ycchong188",
+        "type": "x",
+        "url": "https://x.com/ycchong188/status/2124485507161931787",
+        "creator": "@ycchong188",
+        "published": "2026-11-22",
+        "embeddable": true,
+        "fetched": true
+      },
+      {
+        "source_id": "consequence",
+        "type": "article",
+        "url": "https://consequence.net/2026/11/gta-6-steal-tesla-coil-car/",
+        "creator": "Eddie Fu (Consequence)",
+        "published": "2026-11-23",
+        "embeddable": false,
+        "fetched": true
+      }
+    ],
+    "notes": "The clip posts call it \"Elon Musk's Tesla\"; in game it is a Coil, a parody brand, so do not name a real company or person on the card. Consequence credits two other posters, @LuckyChamu (X, 2026-11-22) and u/Wise_Confidence_8588 (Reddit, r/SipsTea, \"Teslas in GTA 6 are brutal\"); their post URLs were not recorded, so they are not linked. Earliest post found: @ycchong188 at 12:49 UTC on 2026-11-22; not confirmed as the first finder, so first_finder is null. The viral repost in the bookmark folder (@FearedBuck) uses the @ycchong188 video, so the clip credits the original. One outlet seen only in search results names a different car and a key-cloner condition: trigger conditions are unconfirmed.",
+    "added_at": "2026-11-25",
+    "updated_at": "2026-11-25"
+  },
+  {
+    "id": "capri-cops-secret-cells",
+    "slug": "capri-cops-secret-cells",
+    "title": "Capri's corrupt cops and their secret cells (Hot Fuzz nod)",
+    "status": "draft",
+    "category": "activity",
+    "verification": "multi-source",
+    "spoiler": false,
+    "mature": false,
+    "chapter_gate": null,
+    "area": "Capri (town west of Vice City)",
+    "region_ids": [
+      "capri"
+    ],
+    "location_description": "Cause trouble in central Capri, or wait for a Capri officer to threaten you, then surrender at a one or two star wanted level.",
+    "pin": null,
+    "pin_accuracy": null,
+    "pin_basis": null,
+    "summary": "Get arrested in Capri and there is no normal busted screen: the local police kidnap you to a hidden cell block. Break the cage with repeated melee, take your gear back from an open police car trunk, fight your way out, free the other prisoners and escape by car or by the boat at the dock. GameRant calls the town a Hot Fuzz reference. The reward is a unique shotgun, the CPD Moreland 850.",
+    "crossover_games": [],
+    "related_connections": [],
+    "first_finder": null,
+    "clip": {
+      "platform": "x",
+      "url": "https://x.com/TheHiddenOneAC/status/2125249893946085647",
+      "creator": "@TheHiddenOneAC",
+      "source_id": "x-thehiddenoneac"
+    },
+    "sources": [
+      {
+        "source_id": "x-thehiddenoneac",
+        "type": "x",
+        "url": "https://x.com/TheHiddenOneAC/status/2125249893946085647",
+        "creator": "@TheHiddenOneAC",
+        "published": "2026-11-24",
+        "embeddable": true,
+        "fetched": true
+      },
+      {
+        "source_id": "gamerant",
+        "type": "article",
+        "url": "https://gamerant.com/gta-6-capri-cops-secret-mission-cell-keys/",
+        "creator": "Jake Fillery (GameRant)",
+        "published": "2026-11-24",
+        "embeddable": false,
+        "fetched": true
+      }
+    ],
+    "notes": "GameRant's headline names it the \"By Invitation Only\" secret mission; that is GameRant's label and was not checked against the game. A woman dressed as a gold statue is taken from the cells and, per GameRant, cannot be saved; the clip's creator says in replies that the statue NPC ties back to a random encounter hours earlier and that the reward is a unique weapon variant. GameRant credits no finder and was published after the clip, so independence is likely but not certain; downgrade to single-source if Chime disagrees. Violence is the game baseline, so mature is false.",
+    "added_at": "2026-11-25",
+    "updated_at": "2026-11-25"
+  },
+  {
+    "id": "leonida-birding-60-species",
+    "slug": "leonida-birding-60-species",
+    "title": "Birding in Leonida: 60 real species, reviewed by an Audubon writer",
+    "status": "draft",
+    "category": "real-world-reference",
+    "verification": "single-source",
+    "spoiler": false,
+    "mature": false,
+    "chapter_gate": null,
+    "area": "All of Leonida. Audubon names Jason's first safehouse deck, the Grassrivers, Vice Beach and Mt. Kalaga among its spots.",
+    "region_ids": [
+      "grassrivers",
+      "mount-kalaga",
+      "vice-beach"
+    ],
+    "location_description": "Binoculars come in the first mission. Hold the study button on a bird to log it in the Progress menu. Every species is available without story progress.",
+    "pin": null,
+    "pin_accuracy": null,
+    "pin_basis": null,
+    "summary": "Birder Nicholas Lund logged all 60 bird species in the game for Audubon magazine and called it \"the most accurate version of modern birding ever put to screen\". Waders and seabirds sit in the south and woodland birds in the north, as in South Florida. He also lists slips: endangered Whooping Cranes and Red-cockaded Woodpeckers are common, and a Golden Eagle circles Mt. Kalaga.",
+    "crossover_games": [],
+    "related_connections": [],
+    "first_finder": null,
+    "clip": {
+      "platform": "x",
+      "url": "https://x.com/Dexerto/status/2125280841429381189",
+      "creator": "@Dexerto",
+      "source_id": "x-dexerto"
+    },
+    "sources": [
+      {
+        "source_id": "x-dexerto",
+        "type": "x",
+        "url": "https://x.com/Dexerto/status/2125280841429381189",
+        "creator": "@Dexerto",
+        "published": "2026-11-24",
+        "embeddable": true,
+        "fetched": true
+      },
+      {
+        "source_id": "audubon",
+        "type": "article",
+        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+        "creator": "Nicholas Lund (Audubon)",
+        "published": "2026-11-20",
+        "embeddable": false,
+        "fetched": true
+      },
+      {
+        "source_id": "dexerto",
+        "type": "article",
+        "url": "https://www.dexerto.com/gta/birdwatching-expert-gives-final-verdict-on-gta-6s-birds-after-finding-every-single-one-3430911/",
+        "creator": "James Busby (Dexerto)",
+        "published": "2026-11-24",
+        "embeddable": false,
+        "fetched": true
+      }
+    ],
+    "notes": "Dexerto's article and X post both trace back to Lund's Audubon column, so this is single-source. Pre-release coverage said 62 species; Lund counts at least 60 in the Progress menu and notes a few more on the hunting screen. The clip is a photo post (2 images), not a video. No pin: it is a statewide activity.",
+    "added_at": "2026-11-25",
+    "updated_at": "2026-11-25"
+  },
+  {
+    "id": "stranger-in-your-parked-car",
+    "slug": "stranger-in-your-parked-car",
+    "title": "A stranger waiting in your parked car",
+    "status": "draft",
+    "category": "npc",
+    "verification": "single-source",
+    "spoiler": false,
+    "mature": false,
+    "chapter_gate": null,
+    "area": "Unknown (random encounter, location not reported)",
+    "region_ids": [],
+    "location_description": "Reported after leaving a car parked while shopping. No fixed spot.",
+    "pin": null,
+    "pin_accuracy": null,
+    "pin_basis": null,
+    "summary": "A player came back from a store to find a woman NPC sitting in her car, who mocked her as broke before being dragged out. Other players replied with their own clips of strangers in their cars, which suggests a random encounter rather than a one-off.",
+    "crossover_games": [],
+    "related_connections": [],
+    "first_finder": null,
+    "clip": {
+      "platform": "x",
+      "url": "https://x.com/babydolltoriii/status/2124908600338546901",
+      "creator": "@babydolltoriii",
+      "source_id": "x-babydolltoriii"
+    },
+    "sources": [
+      {
+        "source_id": "x-babydolltoriii",
+        "type": "x",
+        "url": "https://x.com/babydolltoriii/status/2124908600338546901",
+        "creator": "@babydolltoriii",
+        "published": "2026-11-23",
+        "embeddable": true,
+        "fetched": true
+      }
+    ],
+    "notes": "Described from the post text and the creator's replies only. Replies with their own clips: @Cristian_perlin (\"Dealt with in very different ways\") and @Brandon281999 (a man in the car); neither was checked, so they are not counted as confirmation. The post calls the NPC an \"OF girl\"; keep the card wording neutral. No outlet coverage found on 2026-11-25. The same creator says another NPC got in her car and kidnapped her: that is the existing find collateral-hitman.",
+    "added_at": "2026-11-25",
+    "updated_at": "2026-11-25"
   }
 ]

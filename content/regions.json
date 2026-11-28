@@ -278,10 +278,11 @@
     "research_ref": "research/gta6-world.md sections 3 and 5",
     "notes": null,
     "evidence_finds": [
-      "skunk-ape-bigfoot",
-      "kingfishers-shack-w22"
+      "kingfishers-shack-w22",
+      "leonida-birding-60-species",
+      "skunk-ape-bigfoot"
     ],
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "port-gellhorn",
@@ -379,10 +380,11 @@
     "research_ref": "research/gta6-world.md sections 3 and 5",
     "notes": "Florida has no mountains, so this is invented terrain (research inference). Dawson Dam, Hillside Campsite and a fire tower are here.",
     "evidence_finds": [
+      "leonida-birding-60-species",
       "mount-kalaga-meteorite",
       "mount-kalaga-tower-shed"
     ],
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "downtown",
@@ -417,10 +419,11 @@
     "research_ref": "research/gta6-world.md section 4",
     "notes": "Its own label on the official map, with its own police department (Vice Beach PD per GTABase). Treated by research as part of Vice City.",
     "evidence_finds": [
+      "collateral-hitman",
       "dexter-trinity-apartments",
-      "collateral-hitman"
+      "leonida-birding-60-species"
     ],
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "ocean-beach",
@@ -1056,9 +1059,10 @@
     "research_ref": "research/gta6-world.md section 3",
     "notes": null,
     "evidence_finds": [
+      "capri-cops-secret-cells",
       "capri-pentagram-ritual"
     ],
-    "updated_at": "2026-11-23"
+    "updated_at": "2026-11-25"
   },
   {
     "id": "emerald-springs",
